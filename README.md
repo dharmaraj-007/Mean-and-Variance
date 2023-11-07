@@ -1,5 +1,6 @@
 #  Mean and variance of a discrete  distribution
 
+## Dharmaraj - 212222240025
 
 # Aim : 
 
